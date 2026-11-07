@@ -1,0 +1,13 @@
+bolge,kanal,toplam_siparis_sayisi,toplam_ciro,toplam_net_kar,ortalama_indirim_orani
+Akdeniz,Online,173,648940.5,239907.41,0.061
+Ege,Online,137,433221.5,157657.78,0.0602
+Karadeniz,Online,56,186866.5,66288.96,0.083
+Marmara,Mağaza,317,1180330.0,428627.86,0.0483
+İç Anadolu,Online,252,880932.5,294861.56,0.0619
+Güneydoğu,Mağaza,42,167429.5,54449.71,0.0762
+Marmara,Online,544,1939199.0,658893.72,0.0657
+Akdeniz,Mağaza,103,462895.5,169371.01,0.0578
+Karadeniz,Mağaza,43,194656.5,66862.52,0.0407
+Ege,Mağaza,83,276791.5,95696.33,0.0524
+İç Anadolu,Mağaza,157,525962.5,188003.42,0.0659
+Güneydoğu,Online,93,309603.5,105120.04,0.0849
