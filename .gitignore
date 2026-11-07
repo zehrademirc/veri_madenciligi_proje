@@ -1,0 +1,5 @@
+venv/
+nova_dbt/target/
+nova_dbt/dbt_packages/
+nova_dbt/logs/
+*.duckdb

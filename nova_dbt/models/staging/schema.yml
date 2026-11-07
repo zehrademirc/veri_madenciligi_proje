@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: stg_perakende_satis
+    description: "Temizlenmiş ve hesaplanmış ham satış verileri"
+    columns:
+      - name: siparis_id
+        description: "Benzersiz sipariş numarası"
+        tests:
+          - not_null
+      - name: musteri_id
+        description: "Müşteri kimlik numarası"
+        tests:
+          - not_null
+      - name: toplam_tutar
+        description: "İndirimli sipariş tutarı"
+        tests:
+          - not_null
