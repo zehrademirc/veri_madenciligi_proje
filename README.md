@@ -32,7 +32,7 @@ Bu projenin amacı, NovaPerakende şirketinin çok kanallı (Online ve Mağaza) 
 
 ## 6. İş Zekası ve Dashboard
 
-* **Canlı Looker Studio Dashboard:** [DASHBOARD_LINKINI_BURAYA_YAPISTIR]
+* **Canlı Looker Studio Dashboard:** [https://datastudio.google.com/reporting/a9db43a0-0484-4dcc-be8a-1e8cff36e50c]
 
 ### Temel Bulgular
 
